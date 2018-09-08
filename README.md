@@ -1,5 +1,7 @@
 # Myngb01
 
+This project is created for learning how to use ngb (Ng Bootstrap).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
